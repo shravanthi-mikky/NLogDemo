@@ -1,0 +1,5 @@
+﻿2022-11-28 09:29:21.8018|DEBUG|NlogDemo.NLog|Debug sucessfull : Sum()
+2022-11-28 09:29:21.8062|ERROR|NlogDemo.NLog|Expecting null variables
+2022-11-28 09:29:21.8062|WARN|NlogDemo.NLog|a or b should nont be equal to 0
+2022-11-28 09:29:21.8062|DEBUG|NlogDemo.NLog|Debug sucessfull
+2022-11-28 09:29:21.8062|INFO|NlogDemo.NLog|Sum Method Passed12
